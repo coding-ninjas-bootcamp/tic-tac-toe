@@ -27,6 +27,4 @@ This assignment aims to help you practice basic JavaScript and DOM API
 
 [In-class slides: advanced JavaScript](https://slides.com/zicodeng/deck-3#/)
 
-[Coding ninjas secrets: JavaScript](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/javascript)
-
 [W3Schools: JavaScript tutorial](https://www.w3schools.com/js/)
