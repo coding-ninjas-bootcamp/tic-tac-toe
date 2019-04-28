@@ -23,8 +23,8 @@ This assignment aims to help you practice basic JavaScript and DOM API
 
 ## Resources
 
-[In-class slides: introduction to JavaScript](https://slides.com/zicodeng/deck-2#/)
+[In-class slides: introduction to JavaScript](https://slides.com/zicodeng/coding-ninjas-bootcamp-class-3)
 
-[In-class slides: advanced JavaScript](https://slides.com/zicodeng/deck-3#/)
+[In-class slides: advanced JavaScript](https://slides.com/zicodeng/coding-ninjas-bootcamp-class-4)
 
 [W3Schools: JavaScript tutorial](https://www.w3schools.com/js/)
